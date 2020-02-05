@@ -7,7 +7,7 @@ float mouseCorrection;
 
 void setup() {
   size(1440, 720, P3D);
-  ref = loadImage("EarthBump.png");
+  ref = loadImage("EarthBump.png"); //Image from: http://www.shadedrelief.com/natural3/index.html
   cols = width/cellSize;  //number of columns (depending on the unit size)
   rows = height/cellSize;  //number of rows (depending on the unit size)
   
