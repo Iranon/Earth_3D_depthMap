@@ -4,4 +4,4 @@
 
 Move mouse cursor to adjust colors and press 's' to save image. Press 'r' to refresh colors (randomly).
 
-Earth image from: http://www.shadedrelief.com/natural3/index.html
+Earth images from: http://www.shadedrelief.com/natural3/index.html
