@@ -1,3 +1,7 @@
+//========================================
+/* Copyright (C) 2020 - Matteo Vinci */
+//========================================
+
 PImage ref;
 int cellSize = 2;  //size of the image cells (unit-like)
 int cols, rows;  //columns and rows of the image (useful to scan the reference image)
